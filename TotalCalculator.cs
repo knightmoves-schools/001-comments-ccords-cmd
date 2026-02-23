@@ -7,9 +7,9 @@ public class TotalCalculator
         total = total - 1;
         //total = total - 2;//
         total = total - 3;
-        total = total - 4;
+        /*total = total - 4;
         total = total - 5;
-        total = total - 6;
+        total = total - 6;*/
         total = total - 7;
 
         return total;
